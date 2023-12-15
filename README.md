@@ -1,22 +1,22 @@
 # Cloud-Computing
 ![portada](/img/portada.jpg)
 
-[1.-Introducción]()
+[1.-Introducción](/md/introduccion.md)
 
 
-[2.- Definición de Cloud Computing (nube).]()
+[2.- Definición de Cloud Computing (nube).](/md/definicion.md)
 
 
-[3.- Características de Cloud Computing.]()
+[3.- Características de Cloud Computing.](/md/caracteristicas.md)
 
 
-[4.- Tipos de nubes.]()
+[4.- Tipos de nubes.](/md/tipos.md)
 
 
-[5.- Modos de servicios en la nube]()
+[5.- Modos de servicios en la nube](/md/modos.md)
 
 
-[6.- Ventajas e inconvenientes de Cloud Computing.]()
+[6.- Ventajas e inconvenientes de Cloud Computing.](/md/ventajas.md)
 
 
 
