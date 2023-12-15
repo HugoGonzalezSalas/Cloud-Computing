@@ -16,7 +16,7 @@
 [5.- Modos de servicios en la nube](/md/modos.md)
 
 
-[6.- Ventajas e inconvenientes de Cloud Computing.](/md/ventajas.md)
+[6.- Ventajas De Cloud Computing.](/md/ventajas.md)
 
 
 
