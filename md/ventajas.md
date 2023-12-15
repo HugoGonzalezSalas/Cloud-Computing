@@ -15,5 +15,4 @@ Las principales ventajas que podemos destacar del cloud computing son cinco:
 <br> La información se almacena en la nube eliminando la preocupación por la posible pérdida de datos en caso de ciberataque o virus, a diferencia de la informática tradicional. 
 
 5.- Igualdad:
-<br> 
-El cloud computing rompe las barreras entre las pequeñas y medianas empresas y las grandes corporaciones. 
+<br> El cloud computing rompe las barreras entre las pequeñas y medianas empresas y las grandes corporaciones. </br>
