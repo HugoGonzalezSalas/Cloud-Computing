@@ -7,4 +7,4 @@ Se distinguen los siguientes modos:
   
 - El software como servicio (SaaS) proporciona una pila de aplicaciones completa como servicio, desde la infraestructura subyacente hasta el mantenimiento y las actualizaciones del propio software de la aplicación. Una solución de SaaS a menudo es una aplicación de usuario final en la que el servicio y la infraestructura los gestiona y mantiene el proveedor de servicios en la nube.
 
-![img](/img/)
+![img15](/img/cloud5.jpg)
