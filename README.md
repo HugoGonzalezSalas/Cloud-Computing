@@ -22,6 +22,7 @@
 
 ## Referencias 
 [INESDI](https://www.inesdi.com/blog/breve-introduccion-al-cloud-computing/)
+[OpenWebinars](https://openwebinars.net/blog/cloud-computing-que-es-caracteristicas-y-ventajas/)
 
 ## Autores
 [Hugo Gonzalez Salas](https://github.com/HugoGonzalezSalas)
