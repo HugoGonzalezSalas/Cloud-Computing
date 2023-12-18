@@ -25,7 +25,11 @@
 
 [OpenWebinars](https://openwebinars.net/blog/cloud-computing-que-es-caracteristicas-y-ventajas/)
 
+[Google Cloud](https://cloud.google.com/learn/what-is-cloud-computing?hl=es#section-5)
+
 ## Autores
 [Hugo Gonzalez Salas](https://github.com/HugoGonzalezSalas)
 
 [Manuel Moreno Neria](https://github.com/ManuelMorenoNeria)
+
+## Licencia
