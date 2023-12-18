@@ -1,9 +1,8 @@
 # Cloud-Computing
 
-## Indice
 ![portada](/img/cloud1.jpg)
 
-
+## Indice
 [1.-Introducción](/md/introduccion.md)
 
 
