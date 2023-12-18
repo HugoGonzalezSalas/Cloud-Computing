@@ -10,4 +10,4 @@
 
 - Servicio medido y pago por uso: El uso de recursos es monitoreado, controlado y reportado, proporcionando un nivel de trasparencia. Hay diferentes tipos de medición, almacenamiento, ancho de banda, tiempo de actividad, etc., en cualquier caso, solo se facturan los recursos utilizados, ni más, ni menos.
 
-![img](/img/)
+![img14](/img/cloud4.jpg)
