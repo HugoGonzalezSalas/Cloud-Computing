@@ -17,3 +17,4 @@ Se pueden clasificar por:
   
   El multicloud es un modelo creciente donde empresas combinan servicios de múltiples proveedores además de nubes privadas y públicas. Ideal para empresas con necesidades específicas y diversas funcionalidades de almacenamiento. Al permitir el uso de diferentes opciones sin mover constantemente los datos entre servidores, se optimiza la gestión y se aprovechan las distintas características ofrecidas por cada proveedor de servicios en la nube.
 
+![img](/img/)
