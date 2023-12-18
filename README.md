@@ -36,4 +36,4 @@
 [Manuel Moreno Neria](https://github.com/ManuelMorenoNeria)
 
 ## Licencia
-![img](/img/)
+![img](/img/CC.png)
